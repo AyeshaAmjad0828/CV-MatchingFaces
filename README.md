@@ -1,2 +1,2 @@
 # CV-MatchingFaces
- A code to match faces in images having tilted faces using interest points.
+ A code to match faces in images using template matching approach.
